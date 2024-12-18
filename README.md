@@ -1,4 +1,4 @@
-# 3D-Norwegian-coast-Modeller
+# 3D-Norwegian-coast-Modeller (pyCOast?)
 
 
 ###Code needs to be cleaned up###
